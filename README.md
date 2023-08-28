@@ -20,7 +20,7 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Nidhi Goyal | Faculty | Information Technology | KIET Group of Institutions | nidhi.goyal@kiet.ed
+1 | Nidhi Goyal | Faculty | Information Technology | KIET Group of Institutions | nidhi.goyal@kiet.edu
 2 | Anmol Goyal | Student | MCA | KIET Group of Institutions | anmol.2224mca1145@kiet.edu
 3 | Rhythm Dhingra | Student | MCA | KIET Group of Institutions | rhythm.2224mca1093@kiet.edu
 4 | Sheetal Gupta | Student | MCA | KIET Group of Institutions | Sheetal.2224mca1114@kiet.edu
