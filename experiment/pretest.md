@@ -1,10 +1,10 @@
-## Pre-test
+    ## Pre-test
 #### Please attempt the following questions
 
 <br>Q1) How does Java Script store dates in objects of Date type?
 <br>a. The number of days since January 1st, 1900
 <br>b. The number of seconds since January 1st, 1970
-<br><b>c. The number of milliseconds since January 1st, 1970</b>
+<br>c. <b>The number of milliseconds since January 1st, 1970</b>
 <br>d. The number of picoseconds since January 1st, 1970
 <br>
 
