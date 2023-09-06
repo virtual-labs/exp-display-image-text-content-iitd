@@ -5,8 +5,8 @@ a.	<b>window.captureEvents(Event.CLICK);</b>  <br>
 b.	window.routeEvents(Event.CLICK ); <br>
 c.	window.handleEvents (Event.CLICK); <br>
 d.	window.raiseEvents(Event.CLICK ); <br>
- <br>
-  <br>
+<br>
+<br>
 Q2)	onmouseover event occurs when? <br>
 a.	The user clicks on an element <br>
 b.	A mouse button is pressed over an element <br>
