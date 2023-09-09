@@ -2,7 +2,7 @@
 
    "details": [
        {
-			"Experiment": "To create a html page to display a new image & text when the mouse comes over the existing content in the page",
+			"Experiment": "To create a html page to display a new image & text when the mouse comes over the existing content in the page.",
 			"Lab": "Web Designing Lab",
 			"Discipline": "Computer Science Engineering",
 			"Technology": "Web Designing"
@@ -11,7 +11,7 @@
 
    "developer": [
        {
-      "Developer": "Dr. Sakshi Rathi",
+      "Developer": "Nidhi Goyal",
       "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
       "InstituteAcronym": "KIET"
        }
@@ -25,19 +25,19 @@
        },
 
        {
-			"Contributer": "Rhythm Dhingra ",
-      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
-			"InstituteAcronym": "KIET"
-       },
-
-       {
-			"Contributer": "Kajal Trivedi",
+			"Contributer": "Rhythm Dhingra",
       "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
 			"InstituteAcronym": "KIET"
        },
 
        {
 			"Contributer": "Sheetal Gupta",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
+       },
+
+       {
+			"Contributer": "Kajal Trivedi",
       "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
 			"InstituteAcronym": "KIET"
        }
