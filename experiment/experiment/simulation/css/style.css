@@ -1,5 +1,3 @@
-
-
 .container {
     padding: 0;
     margin: 14px !important;
@@ -27,7 +25,6 @@
     border: 3px solid blue;
 }
 
-
 .code textarea {
     resize: none;
     outline: none;
@@ -36,9 +33,7 @@
     font-size: 15px;
     background-color: #EBF5FB;
     padding: 15px;
-
 }
-
 
 .complete {
     height: 100%;
