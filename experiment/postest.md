@@ -1,16 +1,24 @@
 ## Post test
 <br>
-Q1) Which of the following is used to capture all click events in a window? <br>
-a.	<b>window.captureEvents(Event.CLICK);</b>  <br>
-b.	window.routeEvents(Event.CLICK ); <br>
-c.	window.handleEvents (Event.CLICK); <br>
-d.	window.raiseEvents(Event.CLICK ); <br>
+Q1) Console.log(3>2>1); <br>
+<br>Output of the code will be? <br>
+a. True <br>
+b. <b>False</b> <br>
+c. Syntax Error
+d. None
+
 <br>
 <br>
-Q2)	onmouseover event occurs when? <br>
-a.	The user clicks on an element <br>
-b.	A mouse button is pressed over an element <br>
-c.	The mouse pointer is moved over an element <br>
-d.	<b>The pointer is moved onto an element</b> <br>
+Q2) const isTrue = true == ![]; <br>
+    const isFalse = false == []; <br>
+    console.log(isTrue + isFalse); <br>
+<br>Output of the code will be? <br>
+a. 0 <br>
+b. <b>1</b> <br>
+c. “true” <br>
+d. true <br>
+
+
+
 <br>
 <br>

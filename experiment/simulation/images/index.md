@@ -1,1 +1,1 @@
-### This folder contains images used in simulation.
+### This folder contains css files used in simulation.
