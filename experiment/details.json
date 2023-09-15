@@ -1,0 +1,46 @@
+{
+
+   "details": [
+       {
+			"Experiment": "To display the calendar using JavaScript code by getting the year from the user ",
+			"Lab": "Web Designing Lab",
+			"Discipline": "Computer Science Engineering",
+			"Technology": "Web Designing"
+       }
+   ],
+
+   "developer": [
+       {
+      "Developer": "Nidhi Goyal",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+      "InstituteAcronym": "KIET"
+       }
+   ],
+
+   "contributer": [
+       {
+			"Contributer": "Tulika Omrey",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
+       },
+
+       {
+			"Contributer": "Oorja Rajoria",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
+       },
+
+       {
+			"Contributer": "Kumari Surbhi",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
+       },
+
+       {
+			"Contributer": "Jyoti Mishra",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
+       }
+   ]
+
+}
