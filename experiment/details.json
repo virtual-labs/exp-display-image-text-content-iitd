@@ -2,7 +2,7 @@
 
    "details": [
        {
-			"Experiment": "To create a html page to display a new image & text when the mouse comes over the existing content in the page.",
+			"Experiment": "To display the calendar using JavaScript code by getting the year from the user ",
 			"Lab": "Web Designing Lab",
 			"Discipline": "Computer Science Engineering",
 			"Technology": "Web Designing"
@@ -19,25 +19,25 @@
 
    "contributer": [
        {
-			"Contributer": "Anmol Goyal",
+			"Contributer": "Tulika Omrey",
       "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
 			"InstituteAcronym": "KIET"
        },
 
        {
-			"Contributer": "Rhythm Dhingra",
+			"Contributer": "Oorja Rajoria",
       "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
 			"InstituteAcronym": "KIET"
        },
 
        {
-			"Contributer": "Sheetal Gupta",
+			"Contributer": "Kumari Surbhi",
       "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
 			"InstituteAcronym": "KIET"
        },
 
        {
-			"Contributer": "Kajal Trivedi",
+			"Contributer": "Jyoti Mishra",
       "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
 			"InstituteAcronym": "KIET"
        }

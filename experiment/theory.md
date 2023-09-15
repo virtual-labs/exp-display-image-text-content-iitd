@@ -1,3 +1,3 @@
-The onmouseover and onmouseout JavaScript events will be used to create the picture rollover. 
+The current task is to build a website that shows a calendar.The ability to go back and forth between months should be available on the calendar.
 
-When users move their mouse pointer over an image, the image's style is changed; when users move their mouse pointer off of an image, the image's default style is applied.
+It should be possible for the calendar to show the current date in a different color.
