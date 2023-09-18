@@ -72,7 +72,7 @@
   const quizContainer = document.getElementById("quiz");
   const resultsContainer = document.getElementById("results");
   const submitButton = document.getElementById("submit");
- 
+
 
 /////////////////////////////////////////////////////////////////////////////
 
@@ -90,53 +90,36 @@
 
   const myQuestions = [
     {
-      question: "How does Java Script store dates in objects of Date type?",  ///// Write the question inside double quotes
-      answers: {
-        a: "The number of days since January 1st, 1900",                  ///// Write the option 1 inside double quotes
-        b: "The number of seconds since January 1st, 1970",                  ///// Write the option 2 inside double quotes
-        c: "The number of milliseconds since January 1st, 1970",                  ///// Write the option 3 inside double quotes
-        d: "The number of picoseconds since January 1st, 1970"                   ///// Write the option 4 inside double quotes
-      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
+        question: "Q1) What value will print to the console? Please select the closest answer:
+	                      const a = new Date('2023-01-01')
+	                      const b = new Date('2023-01-01T00:00')
+	                      console.log(a.getFullYear(), b.getFullYear()) ",
+        answers: {
+            a: ' 2019 2023',
+            b: ' 2023 2021',
+            c: ' 2023 2023',
+            d: ' 2023 2019'
+
+
+
+                          
+        },
+        correctAnswer: 'c'
     },
-
     {
-     question: "Which of the ways below is incorrect of instantiating a date?",  ///// Write the question inside double quotes
-      answers: {
-        a: "new Date(dateString)",                  ///// Write the option 1 inside double quotes
-        b: "new Date()",                  ///// Write the option 2 inside double quotes
-        c: "new Date(seconds)",                  ///// Write the option 3 inside double quotes
-        d: "new Date(year, month, day, hours, minutes, seconds, milliseconds)"                   ///// Write the option 4 inside double quotes
-      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
-    },                                  ///// To add more questions, copy the section below 
-    									                  ///// this line
-                                
+        question: "Q2)  What value will print to the console? Please select the closest answer:
+	                      const d2 = new Date(2020, 1, 1) 
+	                      console.log(d2) ",
+        answers: {
+            a: ' 2023-02-01',
+            b: ' 2023-01-01',
+            c: ' 2023-03-01',
+            d: ' 2023-04-01'
 
-    /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
-        till closing curly braces comma ( }, )
-
-        and paste it below the curly braces comma ( below correct answer }, ) of above 
-        question
-
-    Copy below section
-
-    {
-      question: "This is question n?",
-      answers: {
-        a: "Option 1",
-        b: "Option 2",
-        c: "Option 3",
-        d: "Option 4"
-      },
-      correctAnswer: "c"
+        },
+        correctAnswer: 'b'
     },
-
-    Copy above section
-
-    */
-
-
+   
 
   ];
 
@@ -153,6 +136,7 @@
   // display quiz right away
   buildQuiz();
 
+  
   // on submit, show results
   submitButton.addEventListener("click", showResults);
 })();
@@ -163,3 +147,4 @@
 /////////////////////// Do not modify the above code ////////////////////////
 
 /////////////////////////////////////////////////////////////////////////////
+
