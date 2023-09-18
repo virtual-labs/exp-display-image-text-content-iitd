@@ -90,8 +90,7 @@
 
   const myQuestions = [
     {
-        question: " Q1) Console.log(3>2>1); 
-                        Output of the code will be? ",
+        question: " Q1) Console.log(3>2>1); Output of the code will be? ",
         answers: {
             a: ' True',
             b: ' False',
