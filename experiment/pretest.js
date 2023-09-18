@@ -90,34 +90,28 @@
 
   const myQuestions = [
     {
-        question: "Q1) What value will print to the console? Please select the closest answer: 
-	                      const a = new Date('2023-01-01') 
-	                      const b = new Date('2023-01-01T00:00')  
-	                      console.log(a.getFullYear(), b.getFullYear())  ",
+        question: "Q1) Which of the following is used to capture all click events in a window? ",
         answers: {
-            a: ' 2019 2023',
-            b: ' 2023 2021',
-            c: ' 2023 2023',
-            d: ' 2023 2019'
+            a: "window.captureEvents(Event.CLICK); ",
+            b: "window.routeEvents(Event.CLICK );",
+            c: "window.handleEvents (Event.CLICK);",
+            d: "window.raiseEvents(Event.CLICK );"
 
 
 
                           
         },
-        correctAnswer: 'c'
+        correctAnswer: 'a'
     },
     {
-        question: "Q2)  What value will print to the console? Please select the closest answer:
-	                const d2 = new Date(2020, 1, 1) <br>
-	                console.log(d2) ", 
+        question: "Q2)  onmouseover event occurs when? ", 
         answers: {
-            a: ' 2023-02-01',
-            b: ' 2023-01-01',
-            c: ' 2023-03-01',
-            d: ' 2023-04-01'
-
+            a: "The user clicks on an element",
+            b: "A mouse button is pressed over an element",
+            c: "The mouse pointer is moved over an element",
+            d: " he pointer is moved onto an element"
         },
-        correctAnswer: 'b'
+        correctAnswer: 'd'
     },
    
 
