@@ -90,39 +90,31 @@
 
   const myQuestions = [
     {
-      question: "Which of the following input type lets you enter phone number?",  ///// Write the question inside double quotes
+      question: "Console.log(3>2>1);
+        Output of the code will be?",  ///// Write the question inside double quotes
       answers: {
-        a: "text",                  ///// Write the option 1 inside double quotes
-        b: "number",                  ///// Write the option 2 inside double quotes
-        c: "tel",                  ///// Write the option 3 inside double quotes
-        d: "date"                   ///// Write the option 4 inside double quotes
-      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
-    },
-
-    {
-      question: "Which of the following buttons is used to reset the values to initial values?",  ///// Write the question inside double quotes
-      answers: {
-        a: "submit",                  ///// Write the option 1 inside double quotes
-        b: "reset",                  ///// Write the option 2 inside double quotes
-        c: "initial_values",                  ///// Write the option 3 inside double quotes
-        d: "None of these"                   ///// Write the option 4 inside double quotes
+        a: "True",                  ///// Write the option 1 inside double quotes
+        b: "False",                  ///// Write the option 2 inside double quotes
+        c: "Syntax Error",                  ///// Write the option 3 inside double quotes
+        d: "None"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "Which of the following characters are checked for input type email?",  ///// Write the question inside double quotes
+      question: "const isTrue = true == ![]; 
+        const isFalse = false == [];
+       Output of the code will be    ?",  ///// Write the question inside double quotes
       answers: {
-        a: ".",                  ///// Write the option 1 inside double quotes
-        b: "@",                  ///// Write the option 2 inside double quotes
-        c: "!",                  ///// Write the option 3 inside double quotes
-        d: "#"                   ///// Write the option 4 inside double quotes
+        a: "0",                  ///// Write the option 1 inside double quotes
+        b: "1",                  ///// Write the option 2 inside double quotes
+        c: "true",                  ///// Write the option 3 inside double quotes
+        d: "true"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
-    },                                  ///// To add more questions, copy the section below 
-    									                  ///// this line
+    },
 
+   
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
