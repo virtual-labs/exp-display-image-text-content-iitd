@@ -109,7 +109,7 @@
     {
         question: "Q2)  What value will print to the console? Please select the closest answer:
 	                const d2 = new Date(2020, 1, 1) <br>
-	                console.log(d2) "<br>, 
+	                console.log(d2) <br>", 
         answers: {
             a: ' 2023-02-01',
             b: ' 2023-01-01',
