@@ -90,8 +90,8 @@
 
   const myQuestions = [
     {
-        question: " Q1) Console.log(3>2>1); <br> 
-                        Output of the code will be? <br>",
+        question: " Q1) Console.log(3>2>1);  
+                        Output of the code will be? ",
         answers: {
             a: ' True',
             b: ' False',
@@ -102,10 +102,10 @@
         correctAnswer: 'b'
     },
     {
-        question: "Q2) const isTrue = true == ![]; <br> 
-                       const isFalse = false == []; <br>
-                       console.log(isTrue + isFalse); <br>
-                       Output of the code will be?<br>", 
+        question: "Q2) const isTrue = true == ![];  
+                       const isFalse = false == []; 
+                       console.log(isTrue + isFalse); 
+                       Output of the code will be? ", 
         answers: {
             a: ' 0',
             b: ' 1',
