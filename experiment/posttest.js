@@ -72,7 +72,7 @@
   const quizContainer = document.getElementById("quiz");
   const resultsContainer = document.getElementById("results");
   const submitButton = document.getElementById("submit");
- 
+
 
 /////////////////////////////////////////////////////////////////////////////
 
@@ -90,57 +90,30 @@
 
   const myQuestions = [
     {
-      question: "Console.log(3>2>1);
-        Output of the code will be?",  ///// Write the question inside double quotes
-      answers: {
-        a: "True",                  ///// Write the option 1 inside double quotes
-        b: "False",                  ///// Write the option 2 inside double quotes
-        c: "Syntax Error",                  ///// Write the option 3 inside double quotes
-        d: "None"                   ///// Write the option 4 inside double quotes
-      },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
-    },
+        question: " Q1) Console.log(3>2>1); Output of the code will be? ",
+        answers: {
+            a: ' True',
+            b: ' False',
+            c: ' Syntax Error',
+            d: ' None'
 
+        },
+        correctAnswer: 'b'
+    },
     {
-      question: "const isTrue = true == ![]; 
-        const isFalse = false == [];
-       Output of the code will be    ?",  ///// Write the question inside double quotes
-      answers: {
-        a: "0",                  ///// Write the option 1 inside double quotes
-        b: "1",                  ///// Write the option 2 inside double quotes
-        c: "true",                  ///// Write the option 3 inside double quotes
-        d: "true"                   ///// Write the option 4 inside double quotes
-      },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
-    },
+        question: "Q2) const isTrue = true == ![]; const isFalse = false == []; console.log(isTrue + isFalse); Output of the code will be?",
+        answers: {
+            a: ' 0',
+            b: ' 1',
+            c: ' true',
+            d: ' true'
 
+        },
+        correctAnswer: 'b'
+    },
    
 
-    /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
-        till closing curly braces comma ( }, )
-
-        and paste it below the curly braces comma ( below correct answer }, ) of above 
-        question
-
-    Copy below section
-
-    {
-      question: "This is question n?",
-      answers: {
-        a: "Option 1",
-        b: "Option 2",
-        c: "Option 3",
-        d: "Option 4"
-      },
-      correctAnswer: "c"
-    },
-
-    Copy above section
-
-    */
-
-
-
+    
   ];
 
 
