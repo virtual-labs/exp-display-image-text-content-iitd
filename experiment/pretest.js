@@ -90,37 +90,28 @@
 
   const myQuestions = [
     {
-      question: "Which of the following attribute gives a short hint for an input field?",  ///// Write the question inside double quotes
+      question: "How does Java Script store dates in objects of Date type?",  ///// Write the question inside double quotes
       answers: {
-        a: "hint",                  ///// Write the option 1 inside double quotes
-        b: "placeholder",                  ///// Write the option 2 inside double quotes
-        c: "tag",                  ///// Write the option 3 inside double quotes
-        d: "short"                   ///// Write the option 4 inside double quotes
+        a: "The number of days since January 1st, 1900",                  ///// Write the option 1 inside double quotes
+        b: "The number of seconds since January 1st, 1970",                  ///// Write the option 2 inside double quotes
+        c: "The number of milliseconds since January 1st, 1970",                  ///// Write the option 3 inside double quotes
+        d: "The number of picoseconds since January 1st, 1970"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "Which of the following input type lets you enter date of birth?",  ///// Write the question inside double quotes
+     question: "Which of the ways below is incorrect of instantiating a date?",  ///// Write the question inside double quotes
       answers: {
-        a: "time",                  ///// Write the option 1 inside double quotes
-        b: "date",                  ///// Write the option 2 inside double quotes
-        c: "birth",                  ///// Write the option 3 inside double quotes
-        d: "dob"                   ///// Write the option 4 inside double quotes
+        a: "new Date(dateString)",                  ///// Write the option 1 inside double quotes
+        b: "new Date()",                  ///// Write the option 2 inside double quotes
+        c: "new Date(seconds)",                  ///// Write the option 3 inside double quotes
+        d: "new Date(year, month, day, hours, minutes, seconds, milliseconds)"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
-    {
-     question: "Which of the following will be put in input field for input type text?",  ///// Write the question inside double quotes
-      answers: {
-        a: "Phone number",                  ///// Write the option 1 inside double quotes
-        b: "Date of Birth",                  ///// Write the option 2 inside double quotes
-        c: "Password",                  ///// Write the option 3 inside double quotes
-        d: "Name"                   ///// Write the option 4 inside double quotes
-      },
-      correctAnswer: "d"                ///// Write the correct option inside double quotes
-    },                                 
+                                
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
