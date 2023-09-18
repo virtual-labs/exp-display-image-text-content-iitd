@@ -90,10 +90,10 @@
 
   const myQuestions = [
     {
-        question: "Q1) What value will print to the console? Please select the closest answer:
-	                      const a = new Date('2023-01-01')
-	                      const b = new Date('2023-01-01T00:00')
-	                      console.log(a.getFullYear(), b.getFullYear()) ",
+        question: "Q1) What value will print to the console? Please select the closest answer: <br>
+	                      const a = new Date('2023-01-01') <br>
+	                      const b = new Date('2023-01-01T00:00') <br>
+	                      console.log(a.getFullYear(), b.getFullYear()) <br>",
         answers: {
             a: ' 2019 2023',
             b: ' 2023 2021',
@@ -107,9 +107,9 @@
         correctAnswer: 'c'
     },
     {
-        question: "Q2)  What value will print to the console? Please select the closest answer:
-	                      const d2 = new Date(2020, 1, 1) 
-	                      console.log(d2) ",
+        question: "Q2)  What value will print to the console? Please select the closest answer: <br>
+	                      const d2 = new Date(2020, 1, 1) <br>
+	                      console.log(d2) <br>",
         answers: {
             a: ' 2023-02-01',
             b: ' 2023-01-01',
