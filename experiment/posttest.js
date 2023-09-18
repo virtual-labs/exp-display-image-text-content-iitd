@@ -102,10 +102,10 @@
         correctAnswer: 'b'
     },
     {
-        question: "Q2) const isTrue = true == ![]; <br> 
-                       const isFalse = false == []; <br>
-                       console.log(isTrue + isFalse); <br>
-                       Output of the code will be?", <br>
+        question: "Q2) const isTrue = true == ![];  
+                       const isFalse = false == []; 
+                       console.log(isTrue + isFalse); 
+                       Output of the code will be?", 
         answers: {
             a: ' 0',
             b: ' 1',
