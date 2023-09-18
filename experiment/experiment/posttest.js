@@ -90,30 +90,26 @@
 
   const myQuestions = [
     {
-        question: " Q1) Console.log(3>2>1);  
-                        Output of the code will be? ",
+        question: " Q1) How does Java Script store dates in objects of Date type?? ",
         answers: {
-            a: ' True',
-            b: ' False',
-            c: ' Syntax Error',
-            d: ' None'
+            a: "The number of days since January 1st, 1900",
+            b: "The number of seconds since January 1st, 1970",
+            c: "The number of milliseconds since January 1st, 1970",
+            d: "The number of picoseconds since January 1st, 1970"
 
         },
-        correctAnswer: 'b'
+        correctAnswer: 'c'
     },
     {
-        question: "Q2) const isTrue = true == ![];  
-                       const isFalse = false == []; 
-                       console.log(isTrue + isFalse); 
-                       Output of the code will be? ", 
+        question: "Q2) Which of the ways below is incorrect of instantiating a date?
         answers: {
-            a: ' 0',
-            b: ' 1',
-            c: ' true',
-            d: ' true'
+            a: "new Date(dateString)",
+            b: "new Date()",
+            c: "new Date(seconds)",
+            d: "new Date(year, month, day, hours, minutes, seconds, milliseconds)"
 
         },
-        correctAnswer: 'b'
+        correctAnswer: 'c'
     },
    
 
