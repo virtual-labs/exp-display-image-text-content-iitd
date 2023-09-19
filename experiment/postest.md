@@ -8,12 +8,11 @@ d. window.raiseEvents(Event.CLICK ); <br>
 
 <br>
 <br>
-Q2) 2.	onmouseover event occurs when? <br>
+Q2) onmouseover event occurs when? <br>
 a.  The user clicks on an element<br>
 b.  A mouse button is pressed over an element <br>
 c.  The mouse pointer is moved over an element <br>
 d.  <b>The pointer is moved onto an element </b> <br>
-
 
 
 <br>
