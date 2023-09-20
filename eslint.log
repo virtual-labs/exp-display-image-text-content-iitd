@@ -1,0 +1,29 @@
+
+/home/runner/work/exp-display-image-text-content-iitd/exp-display-image-text-content-iitd/experiment/posttest.js
+  18:18  warning  'letter' is not defined  no-undef
+  22:75  warning  'letter' is not defined  no-undef
+  23:15  warning  'letter' is not defined  no-undef
+  24:39  warning  'letter' is not defined  no-undef
+
+/home/runner/work/exp-display-image-text-content-iitd/exp-display-image-text-content-iitd/experiment/pretest.js
+  18:18  warning  'letter' is not defined  no-undef
+  22:75  warning  'letter' is not defined  no-undef
+  23:15  warning  'letter' is not defined  no-undef
+  24:39  warning  'letter' is not defined  no-undef
+
+/home/runner/work/exp-display-image-text-content-iitd/exp-display-image-text-content-iitd/experiment/simulation/js/script.js
+   1:14  warning  'HealthCare1' is defined but never used    no-unused-vars
+   5:14  warning  'HealthCare2' is defined but never used    no-unused-vars
+   9:14  warning  'Agriculture1' is defined but never used   no-unused-vars
+  13:14  warning  'Agriculture2' is defined but never used   no-unused-vars
+  17:14  warning  'Education1' is defined but never used     no-unused-vars
+  21:14  warning  'Education2' is defined but never used     no-unused-vars
+  25:14  warning  'Industry5_1' is defined but never used    no-unused-vars
+  29:14  warning  'Industry5_2' is defined but never used    no-unused-vars
+  33:14  warning  'Industry_main' is defined but never used  no-unused-vars
+  37:14  warning  'sec_2' is defined but never used          no-unused-vars
+  41:14  warning  'showPreview' is defined but never used    no-unused-vars
+  47:14  warning  'showPreview2' is defined but never used   no-unused-vars
+
+✖ 20 problems (0 errors, 20 warnings)
+
